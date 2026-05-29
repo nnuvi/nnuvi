@@ -1,50 +1,56 @@
 <table>
 <tr>
-<td width="65%">
+<td width="65%" valign="top">
 
 # 👋 Hi, I'm Nuvi
 
-- Full Stack Developer  
-- AI + Backend Engineer  
-- Microservices & Scalable Systems  
+### 🚀 Full Stack Developer  
+### 🧠 AI + Backend Engineer  
+### ⚡ Microservices & Scalable Systems  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&width=600&lines=Building+Scalable+Systems;AI+Engineering;Backend+Architecture;React+%2F+Node+Developer"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=600&lines=Building+Scalable+Systems;AI+Engineering;Backend+Architecture;React+%2F+Node+Developer" />
 
 </td>
 
-<td width="35%" align-top>
+<td width="35%" valign="top">
 
 ## 📝 Latest Projects
-- E-commerce App
+
+### 🛒 E-Commerce App
+Scalable microservices commerce platform.
+
+### 📚 ShelfTracker
+AI-powered library management system.
+
+### 🤖 Facebook AI Agent
+Automated intelligent response system.
 
 </td>
 </tr>
 </table>
 
-<!-- <a href="https://buymeacoffee.com/yourname">
-<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?style=for-the-badge"/>
-</a> -->
-
-
-
-<!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=nnuvi&theme=tokyonight&show_icons=true" /> -->
-
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,python,docker,redis,postgres,mongodb,pytorch&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,python,docker,redis,postgres,mongodb,pytorch,express,git,github,linux,postman&perline=8" />
 </p>
 
 ---
 
-🧮 Stats
+# 🧮 GitHub Stats
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nnuvi&theme=tokyo-night"/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nnuvi&theme=tokyo-night" />
+</p>
