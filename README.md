@@ -37,7 +37,7 @@
 # 🧮 GitHub Stats
 
 <p align="left">
-  <img width=auto src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 </p>
 
 ---
