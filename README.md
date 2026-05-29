@@ -29,7 +29,7 @@
 # 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,mern,python,kotlin,docker,postgres,mongodb,pytorch,git,github,postman,stripe&perline=18" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,mern,python,kotlin,docker,postgres,mongodb,pytorch,git,github,postman,stripe&perline=16" />
 </p>
 
 ---
@@ -44,10 +44,14 @@
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nnuvi&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="nnuvii's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nnuvi&theme=transparent&count_private=true&border_radius=10&locale=en" alt="nnuvi's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=nnuvi&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="nnuvi's Most Used Languages" />
+<<br>
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=nnuvi&show_icons=true&theme=transparent&locale=en&border_radius=10" alt="GitHub Stats" />
+
+  <img width="390" src="https://streak-stats.demolab.com?user=nnuvi&theme=transparent&border_radius=10&locale=en" alt="GitHub Streak" />
+
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnuvi&layout=donut&theme=transparent&langs_count=8&hide=css&border_radius=10&locale=en" alt="Top Languages" />
 </div>
 
 ---
