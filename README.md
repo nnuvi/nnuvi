@@ -40,7 +40,7 @@
 
   <img
     height="180"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=jupyter%20notebook"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=html,c,jupyter%20notebook"
   />
 
 </div>
