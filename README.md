@@ -10,10 +10,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&width=600&lines=Building+Scalable+Systems;AI+Engineering;Backend+Architecture;React+%2F+Node+Developer"/>
 
-🧮 Stats
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight" />
-
 </td>
 
 <td width="35%">
@@ -37,6 +33,12 @@
 
 ## 🛠 Tech Stack
 React · React Native · Next.js · Node.js · Kotlin · Docker · PostgreSQL · Python · PyTorch
+
+---
+
+🧮 Stats
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight" />
 
 ---
 
