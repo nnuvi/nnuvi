@@ -44,8 +44,6 @@
 
 <br>
 
-<<br>
-
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=nnuvi&show_icons=true&theme=transparent&locale=en&border_radius=10" alt="GitHub Stats" />
 
