@@ -40,12 +40,12 @@
 
   <img
     height="180"
-    src="https://ghstats.dev/api?username=nnuvi&theme=github_dark&show_icons=true"
+    src="https://ghstats.dev/api/card?username=nnuvi&theme=tokyonight"
   />
 
   <img
     height="180"
-    src="https://ghstats.dev/api/top-langs?username=nnuvi&theme=github_dark&layout=compact&exclude=html,css,c"
+    src="https://ghstats.dev/api/top-langs?username=nnuvi&theme=tokyonight&layout=compact&exclude=html,css,c,jupyter%20notebook"
   />
 
 </div>
