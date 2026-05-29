@@ -25,9 +25,9 @@ React · React Native · Next.js · Node.js · Kotlin · Docker · PostgreSQL ·
 
 <td width="35%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nnuvi&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=nnuvi&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight" />
 
 </td>
 </tr>
