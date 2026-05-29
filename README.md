@@ -36,9 +36,19 @@
 
 # 🧮 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=jupyter%20notebook&exclude_repo=password-lock" />
-</p>
+<div align="center">
+
+  <img
+    height="180"
+    src="https://ghstats.dev/api?username=nnuvi&theme=github_dark&show_icons=true"
+  />
+
+  <img
+    height="180"
+    src="https://ghstats.dev/api/top-langs?username=nnuvi&theme=github_dark&layout=compact&exclude=html,css,c"
+  />
+
+</div>
 
 <div align="center">
   <img width="390"
