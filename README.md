@@ -12,7 +12,7 @@
 
 </td>
 
-<td width="35%">
+<td width="35%" align-top>
 
 ## 📝 Latest Projects
 - E-commerce App
@@ -32,7 +32,10 @@
 ---
 
 ## 🛠 Tech Stack
-React · React Native · Next.js · Node.js · Kotlin · Docker · PostgreSQL · Python · PyTorch
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,python,docker,redis,postgres,mongodb,pytorch&perline=5" />
+</p>
 
 ---
 
