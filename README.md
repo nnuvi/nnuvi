@@ -2,7 +2,7 @@
 <tr>
 <td width="65%" valign="top">
 
-## 👋 Hi, I'm Nuvi
+  ## 👋 Hi, I'm Nuvi
 
 🚀 Full Stack Developer  
 🧠 AI + Backend Engineer  
@@ -16,7 +16,7 @@
 
 <td width="35%" valign="top">
 
-## 📝 Latest Projects
+  ## 📝 Latest Projects
 
 - E-Commerce App
 
@@ -28,8 +28,8 @@
 
 # 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,python,docker,redis,postgres,mongodb,pytorch,express,git,github,linux,postman&perline=18" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,mern,python,kotlin,docker,postgres,mongodb,pytorch,git,github,postman,stripe&perline=18" />
 </p>
 
 ---
