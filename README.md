@@ -40,12 +40,7 @@
 
   <img
     height="180"
-    src="https://ghstats.dev/api/card?username=nnuvi&theme=tokyonight"
-  />
-
-  <img
-    height="180"
-    src="https://ghstats.dev/api/top-langs?username=nnuvi&theme=tokyonight&layout=compact&exclude=html,css,c,jupyter%20notebook"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=html,css,c,jupyter%20notebook"
   />
 
 </div>
