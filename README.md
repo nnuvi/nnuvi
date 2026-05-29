@@ -1,8 +1,11 @@
-<table>
-<tr>
-<td width="65%" valign="top">
+<div align="center">
 
-  ## 👋 Hi, I'm Nuvi
+<table width="100%">
+<tr>
+
+<td width="60%" valign="top">
+
+## 👋 Hi, I'm Nuvi
 
 🚀 Full Stack Developer  
 🧠 AI + Backend Engineer  
@@ -14,13 +17,16 @@
 
 </td>
 
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
-  ## 📝 Latest Projects
+## 📝 Latest Projects
 
-- E-Commerce App
+- E-Commerce App  
+- BookQuest (Mobile App)  
+- AI Assistant Backend  
 
 </td>
+
 </tr>
 </table>
 
@@ -28,33 +34,43 @@
 
 # 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,mern,python,kotlin,docker,postgres,mongodb,pytorch,git,github,postman,stripe&perline=16" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,python,kotlin,docker,postgres,mongodb,pytorch,git,github,postman&perline=8" />
 </p>
 
 ---
 
-# 🧮 GitHub Stats
-
-<div align="center">
-
-  <img
-    height="180"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=html,c,jupyter%20notebook"
-  />
-
-</div>
-
-<div align="center">
-  <img width="390"
-    src="https://streak-stats.demolab.com?user=nnuvi&theme=transparent"
-  />
-</div>
-
----
-
-# 📊 Contribution Graph
+# 📊 GitHub Stats
 
 <p align="center">
-  <img width=auto src="https://github-readme-activity-graph.vercel.app/graph?username=nnuvi&theme=tokyo-night" />
+
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=nnuvi&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
+  <img 
+    height="180"
+    src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true"
+  />
+
 </p>
+
+<p align="center">
+  <img 
+    height="180"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=html,css,c,jupyter%20notebook&hide_border=true"
+  />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nnuvi&theme=tokyo-night"
+  />
+</p>
+
+</div>
