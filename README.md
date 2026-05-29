@@ -45,11 +45,17 @@
 <br>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=nnuvi&show_icons=true&theme=transparent&locale=en&border_radius=10" alt="GitHub Stats" />
+  <img width="390"
+    src="https://github-readme-stats.vercel.app/api?username=nnuvi&show_icons=true&theme=transparent&count_private=true&rank_icon=github&locale=en"
+    alt="nnuvi GitHub Stats" />
 
-  <img width="390" src="https://streak-stats.demolab.com?user=nnuvi&theme=transparent&border_radius=10&locale=en" alt="GitHub Streak" />
+  <img width="390"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nnuvi&theme=transparent&border_radius=10&locale=en"
+    alt="nnuvi GitHub Streak" />
 
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnuvi&layout=donut&theme=transparent&langs_count=8&hide=css&border_radius=10&locale=en" alt="Top Languages" />
+  <img width="325"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnuvi&layout=donut&theme=transparent&langs_count=8&hide=css&border_radius=10&locale=en"
+    alt="nnuvi Top Languages" />
 </div>
 
 ---
