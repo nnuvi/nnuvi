@@ -13,24 +13,28 @@
 ## 🛠 Tech Stack
 React · React Native · Next.js · Node.js · Kotlin · Docker · PostgreSQL · Python · PyTorch
 
+</td>
+
+<td width="35%">
+
 ## 📝 Latest Projects
 - E-commerce App
+
+</td>
+</tr>
+</table>
 
 <!-- <a href="https://buymeacoffee.com/yourname">
 <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?style=for-the-badge"/>
 </a> -->
 
-</td>
 
-<td width="35%">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=nnuvi&theme=tokyonight&show_icons=true" />
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=nnuvi&theme=tokyonight&show_icons=true" /> -->
+
+## 🧮 Stats
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
 
 ---
 
