@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <table width="100%">
 <tr>
@@ -22,8 +22,7 @@
 ## 📝 Latest Projects
 
 - E-Commerce App  
-- BookQuest (Mobile App)  
-- AI Assistant Backend  
+- BookQuest (Mobile App)   
 
 </td>
 
