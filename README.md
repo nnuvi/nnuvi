@@ -47,9 +47,6 @@
     height="180"
     src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true"
   />
-</p>
-
-<p align="center">
   <img 
     height="180"
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=html,css,c,jupyter%20notebook&hide_border=true"
