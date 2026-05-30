@@ -5,7 +5,7 @@
 
 <td width="60%" valign="top">
 
-## 👋 Hi, I'm Nuvi
+## 👋 Hello there
 
 🚀 Full Stack Developer  
 🧠 AI + Backend Engineer  
@@ -35,7 +35,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,python,kotlin,docker,postgres,mongodb,pytorch,git,github,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,python,kotlin,docker,kafka,postgres,mongodb,pytorch,git,github,postman&perline=8" />
 </p>
 
 ---
@@ -43,17 +43,10 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=nnuvi&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
   <img 
     height="180"
     src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true"
   />
-
 </p>
 
 <p align="center">
