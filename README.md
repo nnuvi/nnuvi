@@ -2,7 +2,7 @@
 
 # 👋 Hello there, I'm Nuvi
 
-Full Stack Developer • Backend Engineer • Microservices Enthusiast
+Software Engineer • Full Stack Developer • Microservices Enthusiast
 
 </div>
 
