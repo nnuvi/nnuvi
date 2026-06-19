@@ -11,7 +11,7 @@ Full Stack Developer • TypeScript • Next.js • Node.js • Microservices En
 <table width="100%">
 <tr>
 
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ## 🚀 About Me
 
@@ -26,7 +26,7 @@ Full Stack Developer • TypeScript • Next.js • Node.js • Microservices En
 
 </td>
 
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 ## 🧾 Featured Projects
 
