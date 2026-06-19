@@ -30,12 +30,22 @@ Full Stack Developer • TypeScript • Next.js • Node.js • Microservices En
 
 ## 🧾 Featured Projects
 
-- 🛒 E-Commerce Microservices App
-      Next.js, Node.js, PostgreSQL, MongoDB, Docker, Kafka  
-- 📚 BookQuest 
-      React Native, Node.js, MongoDB  
-- 🤖 AI Chat App
-      React, Node.js
+- 🛒 **E-Commerce Microservices App**  
+  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)
+  ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+  ![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
+
+- 📚 **BookQuest**  
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
+  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)
+
+- 🤖 **AI Chat App**  
+  ![React](https://img.shields.io/badge/React-20232A?logo=react)
+  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 
 </td>
 
