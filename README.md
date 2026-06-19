@@ -30,9 +30,9 @@ Full Stack Developer • TypeScript • Next.js • Node.js • Microservices En
 
 ## 🧾 Featured Projects
 
-- 🛒 E-Commerce Microservices App — Next.js, Node.js, PostgreSQL, MongoDB, Docker, Kafka  
-- 📚 BookQuest — React Native, Node.js, MongoDB  
-- 🤖 AI Chat App — React, Node.js
+- 🛒 E-Commerce Microservices App - Next.js, Node.js, PostgreSQL, MongoDB, Docker, Kafka  
+- 📚 BookQuest - React Native, Node.js, MongoDB  
+- 🤖 AI Chat App - React, Node.js
 
 </td>
 
