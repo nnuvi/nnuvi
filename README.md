@@ -57,7 +57,7 @@ Full Stack Developer • TypeScript • Next.js • Node.js • Microservices En
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,shadcn,python,django,kotlin,docker,kafka,prisma,postgres,mongodb,pytorch,git,github,postman,&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,python,django,kotlin,docker,kafka,prisma,postgres,mongodb,pytorch,git,github,postman,&perline=9" />
 </p>
 
 ---
