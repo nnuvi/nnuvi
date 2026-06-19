@@ -40,12 +40,12 @@ Full Stack Developer • TypeScript • Next.js • Node.js • Microservices En
 
 - 📚 **BookQuest**  
   ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
-  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)
 
 - 🤖 **AI Chat App**  
   ![React](https://img.shields.io/badge/React-20232A?logo=react)
-  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 </td>
 
