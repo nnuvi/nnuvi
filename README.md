@@ -32,8 +32,8 @@ Full Stack Developer • TypeScript • Next.js • Node.js • Microservices En
 
 - 🛒 **E-Commerce Microservices App**  
   ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)
   ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
   ![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
