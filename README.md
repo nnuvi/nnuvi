@@ -2,7 +2,7 @@
 
 # 👋 Hello there, I'm Nuvi
 
-Software Engineer • Full Stack Developer • Microservices Enthusiast
+Full Stack Developer • TypeScript • Next.js • Node.js • Microservices Enthusiast
 
 </div>
 
@@ -15,14 +15,14 @@ Software Engineer • Full Stack Developer • Microservices Enthusiast
 
 ## 🚀 About Me
 
-- Full Stack Developer focused on scalable web applications  
-- Interested in backend systems, APIs, and distributed architecture  
-- Experience with microservices-based development  
-- Passionate about building real-world software systems  
+- Building full-stack web applications using TypeScript, Next.js, and Node.js
+- Developing APIs, backend services, and modern web applications
+- Exploring microservices architecture and scalable system design
+- Passionate about solving real-world problems through software
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=600&lines=Building+Scalable+Systems;Designing+Backend+APIs;Microservices+Architecture;React+%2F+Node.js+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=600&lines=Building+Full-Stack+Applications;Developing+Backend+APIs;TypeScript+%7C+Next.js+%7C+Node.js;Exploring+Microservices+Architecture" />
 
 </td>
 
@@ -30,9 +30,9 @@ Software Engineer • Full Stack Developer • Microservices Enthusiast
 
 ## 🧾 Featured Projects
 
-- 🛒 E-Commerce Microservices App  
-- 📚 BookQuest (Mobile App)  
-- 🤖 AI Chat Application  
+- 🛒 E-Commerce Microservices App — Next.js, Node.js, PostgreSQL, MongoDB, Docker, Kafka  
+- 📚 BookQuest — React Native, Node.js, MongoDB  
+- 🤖 AI Chat App — React, Node.js
 
 </td>
 
