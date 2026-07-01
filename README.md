@@ -2,7 +2,7 @@
 
 # 👋 Hello there, I'm Nuvi
 
-### Full Stack Developer • TypeScript • Next.js • Node.js • Microservices Enthusiast
+### Full Stack Developer • TypeScript • Next.js • React Natve • Node.js • Microservices Enthusiast
 
 </div>
 
