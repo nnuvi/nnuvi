@@ -78,8 +78,6 @@
 <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
 
-<br><br>
-
 <!-- 🚀 Backend -->
 <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
