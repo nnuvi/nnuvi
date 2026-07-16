@@ -69,13 +69,6 @@
 ![](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
 ![](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google)
 ![](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=nnuvi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=html,css,c,jupyter%20notebook&hide_border=true" />
 </p>
 
 ---
