@@ -57,7 +57,25 @@
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,html,js,ts,tailwind,python,fastapi,django,kotlin,docker,kafka,prisma,postgres,mongodb,pytorch,git,github,postman,vite,vercel,npm,pnpm,&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,tailwind,python,fastapi,django,kotlin,docker,kafka,prisma,postgres,mongodb,pytorch,git,github,postman,vscode,vite,vercel&perline=8" />
+</p>
+<p align="center">
+
+![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+![](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery)
+![](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge)
+![](https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss)
+![](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
+![](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google)
+![](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=nnuvi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=html,css,c,jupyter%20notebook&hide_border=true" />
 </p>
 
 ---
