@@ -62,7 +62,7 @@
 <p align="center"> -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,tailwind,python,fastapi,django,kotlin,docker,kafka,prisma,postgres,mongodb,pytorch,git,github,postman,vscode,vite,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,tailwind,python,fastapi,django,kotlin,docker,kafka,prisma,postgres,mongodb,pytorch,git,github,postman,vscode,vite,vercel&perline=12" />
 </p>
 
 <p align="center">
