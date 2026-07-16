@@ -57,7 +57,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,python,django,kotlin,docker,kafka,prisma,postgres,mongodb,pytorch,git,github,postman,&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,html,js,ts,tailwind,python,fastapi,django,kotlin,docker,kafka,prisma,postgres,mongodb,pytorch,git,github,postman,vite,vercel,npm,pnpm,&perline=10" />
 </p>
 
 ---
