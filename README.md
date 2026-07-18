@@ -6,6 +6,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=#1b3c53" />
+</p>
+
 ---
 
 <table width="100%">
