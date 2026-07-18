@@ -16,13 +16,14 @@
 <tr>
 
 <td width="55%" valign="top">
-
+  
 ## 🚀 About Me
 
-- Building full-stack web applications using TypeScript, Next.js, and Node.js
-- Developing APIs, backend services, and modern web applications
-- Exploring microservices architecture and scalable system design
-- Passionate about solving real-world problems through software
+* Building full-stack web and mobile applications with **Next.js**, **React Native**, **Express**, and **TypeScript**.
+* Interested in backend development, API design, software architecture, and building maintainable systems.
+* Enjoy designing intuitive UIs and connecting them with scalable backend services.
+* Currently learning system design, design patterns, microservices, and modern software engineering practices.
+* Continuously improving my projects while exploring new technologies, tools, and best practices.
 
 <br/>
 
