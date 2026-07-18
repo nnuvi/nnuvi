@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hello there, I'm Nuvi
+# 👋 Welcome, I'm Nuvi
 
 ### Full Stack Developer • TypeScript • Next.js • React Natve • Node.js
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nnuvi&style=pixel&color=1b3c53" />
+  <img src="https://komarev.com/ghpvc/?username=nnuvi&style=for-the-badge&color=1b3c53" />
 </p>
 
 ---
