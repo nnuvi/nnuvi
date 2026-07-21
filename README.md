@@ -39,7 +39,8 @@
 <!-- <h3 align="center"> Featured Projects </h3> -->
 
 <!-- <h5><b> E-Commerce Platform </b></h5> -->
-[![E-Commerce](https://img.shields.io/badge/Project-ECom-756d6d?style=for-the-badge&labelColor=232b2b)](https://ecom-client-xi.vercel.app/) 
+[![E-Commerce](https://img.shields.io/badge/Project-ECom-756d6d?style=for-the-badge&labelColor=232b2b)](https://github.com/nnuvi/ecommerce-app)
+[![E-Commerce-label](https://img.shields.io/badge/Live-333333?style=for-the-badge)](https://ecom-client-xi.vercel.app/)
 <!-- [![E-Commerce](https://img.shields.io/badge/ECom-Live-232b2b?style=for-the-badge&labelColor=756d6d)](https://ecom-client-xi.vercel.app/)-->
 
 Full-stack e-commerce platform built with a microservices architecture featuring authentication, product management, shopping cart, orders, and event-driven communication.
@@ -55,6 +56,7 @@ Full-stack e-commerce platform built with a microservices architecture featuring
 
 <!-- <h5><b> BookQuest </b></h5> -->
 [![BookQuest](https://img.shields.io/badge/Project-BookQuest-1b3c53?style=for-the-badge&labelColor=232b2b)](https://github.com/nnuvi/bookquest)
+[![BookQuest-live](https://img.shields.io/badge/Live-333333?style=for-the-badge)](https://bookquest-eight.vercel.app/)
 <!-- [![BookQuest](https://img.shields.io/badge/BookQuest-Live-232b2b?style=for-the-badge&labelColor=1b3c53)](https://github.com/nnuvi/bookquest) -->
 
 Mobile app for managing personal book collections with ISBN scanning, borrowing & lending, friends, notifications, and library organization.
