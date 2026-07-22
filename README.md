@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="Nuvi Banner" width="100%">
+  <img src="assets/banner1.png" alt="Nuvi Banner" width="100%">
 </p> 
 
 </div>
