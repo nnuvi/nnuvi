@@ -1,12 +1,13 @@
 <div align="center">
 
-<!--- # Welcome, I'm Nuvi
+# Welcome, I'm Nuvi
 
-### Full Stack Developer • Next.js • React Native • Express • TypeScript --->
+### Full Stack Developer • Next.js • React Native • Express • TypeScript 
 
+<!--
 <p align="center">
   <img src="assets/banner.png" alt="Nuvi Banner" width="100%">
-</p>
+</p> -->
 
 </div>
 
@@ -15,6 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=nnuvi&style=for-the-badge&color=1b3c53&labelColor=000&label=View" />
 </p>
 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&pause=1200&color=456882&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+with+Next.js+%26+React+Native;Developing+Backend+Services+with+Express;Learning+Software+Architecture+%26+System+Design;Always+Building,+Learning,+and+Improving" />
+</p>
 
 <table width="100%">
 <tr>
@@ -28,10 +32,6 @@
 * Enjoy designing intuitive UIs and connecting them with scalable backend services.
 * Currently learning system design, design patterns, microservices, and modern software engineering practices.
 * Continuously improving my projects while exploring new technologies, tools, and best practices.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&pause=1200&color=456882&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+with+Next.js+%26+React+Native;Developing+Backend+Services+with+Express;Learning+Software+Architecture+%26+System+Design;Always+Building,+Learning,+and+Improving" />
-</p>
 
 <br/>
 <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=600&lines=Building+Full-Stack+Applications;Developing+Backend+APIs;TypeScript+%7C+Next.js+%7C+Node.js;Exploring+Microservices+Architecture" />
