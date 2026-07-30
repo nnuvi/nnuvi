@@ -10,7 +10,7 @@
   <img src="assets/banner.png" alt="Nuvi Banner" width="100%">
 </p>  -->
 
-![Header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&section=header&text=Aspiring%20Software%20Developer&fontSize=33&desc=Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Express%20%C2%B7%20TypeScript&descColor=white&descSize=18&descAlignY=88)
+![Header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=120&section=header&text=Aspiring%20Software%20Developer&fontSize=33&fontAlignY=30&desc=Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Express%20%C2%B7%20TypeScript&descColor=white&descSize=18&descAlignY=66)
 
 </div>
 
@@ -75,7 +75,8 @@ Mobile app for managing personal book collections with ISBN scanning, borrowing 
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <br/>
+<br/>
 
 <!-- ---
 
