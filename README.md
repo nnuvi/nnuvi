@@ -1,3 +1,4 @@
+<p>&nbsp;</p>
 <div align="center">
 
 <!--
@@ -11,7 +12,8 @@
 </p>  -->
 
 ![Header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=120&section=header&text=Aspiring%20Software%20Developer&fontSize=33&fontAlignY=30&desc=Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Express%20%C2%B7%20TypeScript&descColor=white&descSize=18&descAlignY=66)
-
+<!-- ![Header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=50&section=header&text=Aspiring%20Software%20Developer&fontSize=33)
+![Header](https://capsule-render.vercel.app/api?type=transparent&fontColor=7dcfff&height=40&section=header&text=Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Express%20%C2%B7%20TypeScript&fontSize=18) -->
 </div>
 
 <!--
@@ -24,13 +26,12 @@
 </p>
 -->
 
-
 <table width="100%">
 <tr>
 
 <td width="47%" valign="center">
   
-<h3 align="center"> About me </h3>
+<h3 align="center" style="color: #628fda;"> About me </h3>
 
 * Building full-stack web and mobile applications with **Next.js**, **React Native**, **Express**, and **TypeScript**.
 * Interested in backend development, API design, software architecture, and building maintainable systems.
@@ -97,7 +98,7 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 </table>
 
 ---
-<h3 align="center"> Tech Stack </h3>
+<h3 align="center" style="color: #628fda;"> Tech Stack </h3>
 
 <p align="center">
 
@@ -163,7 +164,7 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 </p>
 
 ---
-<h3 align="center"> GitHub Stats </h3>
+<h3 align="center" style="color: #628fda;"> GitHub Stats </h3>
 
 <p align="center">
   <!-- <img height="180" src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true" />  -->
@@ -173,10 +174,19 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 
 ---
 
-<h3 align="center"> Contribution Graph </h3>
+<h3 align="center" style="color: #628fda;"> Contribution Graph </h3>
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nnuvi&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nnuvi&theme=tokyo-night&hide_border=true&hide_title=true&radius=8"
   />
 </p>
+
+<!-- 
+Dark Background:	#1a1b27
+cyne: #7dcfff 
+Lavender: #bb9af7
+Soft Blue:	#7aa2f7
+Primary: #1b3c53
+
+-->
