@@ -31,7 +31,8 @@
 
 <td width="47%" valign="center">
   
-<h3 align="center" style="color: #628fda;"> About me </h3>
+<!-- <h3 align="center" style="color: #628fda;"> About me </h3> -->
+$$\begin{array}{c} \large \color{#628fda} \textsf{About me} \end{array}$$
 
 * Building full-stack web and mobile applications with **Next.js**, **React Native**, **Express**, and **TypeScript**.
 * Interested in backend development, API design, software architecture, and building maintainable systems.
@@ -98,18 +99,23 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 </table>
 
 ---
-<h3 align="center" style="color: #628fda;"> Tech Stack </h3>
+<!-- <h3 align="center" style="color: #628fda;"> Tech Stack </h3> -->
+$$\begin{array}{c} \large \color{#628fda} \textsf{Tech Stack} \end{array}$$
 
 <p align="center">
 
-<b>Languages</b><br/>
+<!-- <b>Languages</b><br/> -->
+$\color{#628fda} \textsf{Languages}$
+<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 
 
 
-<b>Frontend & Mobile</b><br/>
+<!-- <b>Frontend & Mobile</b><br/> -->
+$\color{#628fda} \textsf{Frontend \& Mobile}$
+<br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo"/>
@@ -123,7 +129,9 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 
 
 
-<b>Backend</b><br/>
+<!-- <b>Backend</b><br/> -->
+$\color{#628fda} \textsf{Backend}$
+<br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify"/>
@@ -134,14 +142,18 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 
 
 
-<b>Databases & ORM</b><br/>
+<!-- <b>Databases & ORM</b><br/> -->
+$\color{#628fda} \textsf{Databases \& ORM}$
+<br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 
 
 
-<b>AI & Data</b><br/>
+<!-- <b>AI & Data</b><br/> -->
+$\color{#628fda} \textsf{AI \& Data}$
+<br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -150,7 +162,9 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 
 
 
-<b>Tools & DevOps</b><br/>
+<!-- <b>Tools & DevOps</b><br/> -->
+$\color{#628fda} \textsf{Tools \& DevOps}$
+<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
@@ -164,7 +178,9 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 </p>
 
 ---
-<h3 align="center" style="color: #628fda;"> GitHub Stats </h3>
+<!-- <h3 align="center" style="color: #628fda;"> GitHub Stats </h3> -->
+$$\begin{array}{c} \large \color{#628fda} \textsf{GitHub Stats} \end{array}$$
+
 
 <p align="center">
   <!-- <img height="180" src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true" />  -->
@@ -174,7 +190,8 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 
 ---
 
-<h3 align="center" style="color: #628fda;"> Contribution Graph </h3>
+<!-- <h3 align="center" style="color: #628fda;"> Contribution Graph </h3> -->
+$$\begin{array}{c} \large \color{#628fda} \textsf{Contribution Graph} \end{array}$$
 
 <p align="center">
   <img 
