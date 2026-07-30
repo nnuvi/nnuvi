@@ -6,9 +6,11 @@
 ### Full Stack Developer • Next.js • React Native • Express • TypeScript 
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.png" alt="Nuvi Banner" width="100%">
-</p> 
+</p>  -->
+
+![Header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=100&section=header&text=Aspiring%20Software%20Developer&fontSize=33&desc=Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Express%20%C2%B7%20TypeScript&descColor=white&descSize=18&descAlignY=88)
 
 </div>
 
@@ -21,6 +23,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&pause=1200&color=456882&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+with+Next.js+%26+React+Native;Developing+Backend+Services+with+Express;Learning+Software+Architecture+%26+System+Design;Always+Building,+Learning,+and+Improving" />
 </p>
 -->
+
 
 <table width="100%">
 <tr>
@@ -85,8 +88,7 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/> 
 -->
-<br/>
-<br/>
+
 </div>
 </td>
 
@@ -163,7 +165,8 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 <h3 align="center"> GitHub Stats </h3>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true" /> 
+  <!-- <img height="180" src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true" />  -->
+  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=nnuvi&theme=tokyonight&hide_border=true" />
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnuvi&layout=compact&theme=tokyonight&hide=html,css,c,jupyter%20notebook&hide_border=true" /> 
 </p>
 
@@ -173,6 +176,6 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nnuvi&theme=tokyo-night"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nnuvi&theme=tokyo-night&hide_border=true"
   />
 </p>
