@@ -31,8 +31,7 @@
 
 <td width="47%" valign="center">
   
-<!-- <h3 align="center" style="color: #628fda;"> About me </h3> -->
-$$\begin{array}{c} \large \color{#628fda} \textsf{About Me} \end{array}$$
+<h3 align="center" style="color: #628fda;" color="#628fda"> About me </h3>
 
 * Building full-stack web and mobile applications with **Next.js**, **React Native**, **Express**, and **TypeScript**.
 * Interested in backend development, API design, software architecture, and building maintainable systems.
@@ -99,13 +98,11 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 </table>
 
 ---
-<!-- <h3 align="center" style="color: #628fda;"> Tech Stack </h3> -->
-$$\begin{array}{c} \large \color{#628fda} \textsf{Tech Stack} \end{array}$$
+<h3 align="center" style="color: #628fda;"> Tech Stack </h3>
 
 <p align="center">
 
-<!-- <b>Languages</b><br/> -->
-$\color{#628fda} \textsf{Languages}$
+<b>Languages</b>
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -113,8 +110,7 @@ $\color{#628fda} \textsf{Languages}$
 
 
 
-<!-- <b>Frontend & Mobile</b><br/> -->
-$\color{#628fda} \textsf{Frontend } \text{\&} \textsf{ Mobile}$
+<b>Frontend & Mobile</b>
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -129,8 +125,7 @@ $\color{#628fda} \textsf{Frontend } \text{\&} \textsf{ Mobile}$
 
 
 
-<!-- <b>Backend</b><br/> -->
-$\color{#628fda} \textsf{Backend}$
+<b>Backend</b>
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
@@ -142,8 +137,7 @@ $\color{#628fda} \textsf{Backend}$
 
 
 
-<!-- <b>Databases & ORM</b><br/> -->
-$\color{#628fda} \textsf{Databases } \text{\&} \textsf{ ORM}$
+<b>Databases & ORM</b>
 <br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -151,8 +145,7 @@ $\color{#628fda} \textsf{Databases } \text{\&} \textsf{ ORM}$
 
 
 
-<!-- <b>AI & Data</b><br/> -->
-$\color{#628fda} \textsf{AI } \text{\&} \textsf{ Data}$
+<b>AI & Data</b>
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
@@ -162,8 +155,7 @@ $\color{#628fda} \textsf{AI } \text{\&} \textsf{ Data}$
 
 
 
-<!-- <b>Tools & DevOps</b><br/> -->
-$\color{#628fda} \textsf{Tools } \text{\&} \textsf{ DevOps}$
+<b>Tools & DevOps</b>
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka"/>
@@ -178,9 +170,7 @@ $\color{#628fda} \textsf{Tools } \text{\&} \textsf{ DevOps}$
 </p>
 
 ---
-<!-- <h3 align="center" style="color: #628fda;"> GitHub Stats </h3> -->
-$$\begin{array}{c} \large \color{#628fda} \textsf{GitHub Stats} \end{array}$$
-
+<h3 align="center" style="color: #628fda;"> GitHub Stats </h3>
 
 <p align="center">
   <!-- <img height="180" src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true" />  -->
@@ -190,8 +180,7 @@ $$\begin{array}{c} \large \color{#628fda} \textsf{GitHub Stats} \end{array}$$
 
 ---
 
-<!-- <h3 align="center" style="color: #628fda;"> Contribution Graph </h3> -->
-$$\begin{array}{c} \large \color{#628fda} \textsf{Contribution Graph} \end{array}$$
+<h3 align="center" style="color: #628fda;"> Contribution Graph </h3>
 
 <p align="center">
   <img 
