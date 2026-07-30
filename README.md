@@ -32,7 +32,7 @@
 <td width="47%" valign="center">
   
 <!-- <h3 align="center" style="color: #628fda;"> About me </h3> -->
-$$\begin{array}{c} \large \color{#628fda} \textsf{About me} \end{array}$$
+$$\begin{array}{c} \large \color{#628fda} \textsf{About Me} \end{array}$$
 
 * Building full-stack web and mobile applications with **Next.js**, **React Native**, **Express**, and **TypeScript**.
 * Interested in backend development, API design, software architecture, and building maintainable systems.
@@ -114,7 +114,7 @@ $\color{#628fda} \textsf{Languages}$
 
 
 <!-- <b>Frontend & Mobile</b><br/> -->
-$\color{#628fda} \textsf{Frontend \& Mobile}$
+$\color{#628fda} \textsf{Frontend } \text{\&} \textsf{ Mobile}$
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -143,7 +143,7 @@ $\color{#628fda} \textsf{Backend}$
 
 
 <!-- <b>Databases & ORM</b><br/> -->
-$\color{#628fda} \textsf{Databases \& ORM}$
+$\color{#628fda} \textsf{Databases } \text{\&} \textsf{ ORM}$
 <br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -152,7 +152,7 @@ $\color{#628fda} \textsf{Databases \& ORM}$
 
 
 <!-- <b>AI & Data</b><br/> -->
-$\color{#628fda} \textsf{AI \& Data}$
+$\color{#628fda} \textsf{AI } \text{\&} \textsf{ Data}$
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
@@ -163,7 +163,7 @@ $\color{#628fda} \textsf{AI \& Data}$
 
 
 <!-- <b>Tools & DevOps</b><br/> -->
-$\color{#628fda} \textsf{Tools \& DevOps}$
+$\color{#628fda} \textsf{Tools } \text{\&} \textsf{ DevOps}$
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka"/>
