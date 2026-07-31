@@ -11,7 +11,7 @@
   <img src="assets/banner.png" alt="Nuvi Banner" width="100%">
 </p>  -->
 
-![Header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=120&section=header&text=Aspiring%20Software%20Developer&fontSize=33&fontAlignY=30&desc=Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Express%20%C2%B7%20TypeScript&descColor=white&descSize=18&descAlignY=66)
+![Header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=120&section=header&text=Aspiring%20Software%20Engineer&fontSize=33&fontAlignY=30&desc=Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Express%20%C2%B7%20TypeScript&descColor=white&descSize=18&descAlignY=66)
 <!-- ![Header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=50&section=header&text=Aspiring%20Software%20Developer&fontSize=33)
 ![Header](https://capsule-render.vercel.app/api?type=transparent&fontColor=7dcfff&height=40&section=header&text=Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Express%20%C2%B7%20TypeScript&fontSize=18) -->
 </div>
