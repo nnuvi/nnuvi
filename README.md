@@ -2,12 +2,12 @@
 <div align="center">
 
   <p align="center">
-    <img src="./assets/header.svg" alt="Header" width="380">
+    <img src="./assets/header.svg" alt="Header" width="320">
   </p>
   <p>
-    <img src="./assets/sub-teal.svg" alt="Sub Header" width="330">
+    <img src="./assets/sub-teal.svg" alt="Sub Header" width="360">
   </p>
-  
+
   <br>
 
 </div>
