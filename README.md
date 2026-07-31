@@ -32,9 +32,9 @@
 <td width="47%" valign="center">
   
 <!-- <h3 align="center" style="color: #628fda;" color="#628fda"> About me </h3> -->
-<h2 align="center">
+<p align="center">
   <img src="./assets/about-me.svg" alt="About Me" width="90">
-</h2>
+</p>
 
 * Building full-stack web and mobile applications with **Next.js**, **React Native**, **Express**, and **TypeScript**.
 * Interested in backend development, API design, software architecture, and building maintainable systems.
