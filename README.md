@@ -31,7 +31,10 @@
 
 <td width="47%" valign="center">
   
-<h3 align="center" style="color: #628fda;" color="#628fda"> About me </h3>
+<!-- <h3 align="center" style="color: #628fda;" color="#628fda"> About me </h3> -->
+<h2 align="center">
+  <img src="./assets/about-me.svg" alt="About Me" width="90">
+</h2>
 
 * Building full-stack web and mobile applications with **Next.js**, **React Native**, **Express**, and **TypeScript**.
 * Interested in backend development, API design, software architecture, and building maintainable systems.
@@ -98,7 +101,10 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 </table>
 
 ---
-<h3 align="center" style="color: #628fda;"> Tech Stack </h3>
+<!-- <h3 align="center" style="color: #628fda;"> Tech Stack </h3> -->
+<p align="center">
+  <img src="./assets/tech-stack.svg" alt="Tech Stack" width="100">
+</p>
 
 <p align="center">
 
@@ -170,8 +176,10 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 </p>
 
 ---
-<h3 align="center" style="color: #628fda;"> GitHub Stats </h3>
-
+<!-- <h3 align="center" style="color: #628fda;"> GitHub Stats </h3> -->
+<p align="center">
+  <img src="./assets/git-stats.svg" alt="GitHub Stats" width="120">
+</p>
 <p align="center">
   <!-- <img height="180" src="https://streak-stats.demolab.com?user=nnuvi&theme=tokyonight&hide_border=true" />  -->
   <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=nnuvi&theme=tokyonight&hide_border=true" />
@@ -180,8 +188,11 @@ AI chat application powered by Gemini API with real-time conversations and chat 
 
 ---
 
-<h3 align="center" style="color: #628fda;"> Contribution Graph </h3>
-
+<!-- <h3 align="center" style="color: #628fda;"> Contribution Graph </h3> -->
+<p align="center">
+  <img src="./assets/contribution-graph.svg" alt="Contribution Graph" width="170">
+</p>
+<!-- <br> -->
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=nnuvi&theme=tokyo-night&hide_border=true&hide_title=true&radius=8"
