@@ -3,10 +3,13 @@
 
   <p align="center">
     <img src="./assets/header.svg" alt="Header" width="380">
-    <br>
+  </p>
+  <p>
     <img src="./assets/sub-teal.svg" alt="Sub Header" width="330">
   </p>
+  
   <br>
+
 </div>
 
 <table width="100%">
