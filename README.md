@@ -2,10 +2,10 @@
 <div align="center" width="70">
 
   <p align="center">
-    <img src="./assets/header.svg" alt="Header" width="320">
+    <img src="./assets/header.svg" alt="Header" width="300">
   </p>
   <p>
-    <img src="./assets/sub-teal.svg" alt="Sub Header" width="360">
+    <img src="./assets/sub-teal.svg" alt="Sub Header" width="330">
   </p>
 
   <br>
