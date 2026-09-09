@@ -54,10 +54,8 @@ Building full-stack web and mobile applications with **Next.js**, **React Native
       <div>
 
 [![Ecom](./assets/core/ecom.svg)](https://github.com/nnuvi/ecommerce-app)
-&nbsp;
 ![Dot](./assets/core/dot.svg)
-&nbsp;
-[![Live](./assets/core/tlive.svg)](https://ecom-client-xi.vercelapp/)
+[![Live](./assets/core/live.svg)](https://ecom-client-xi.vercelapp/)
         <br>
         Full-stack e-commerce platform built with a microservices architecture
         featuring authentication, product management, shopping cart, orders,
@@ -69,13 +67,11 @@ Building full-stack web and mobile applications with **Next.js**, **React Native
         <img src="./assets/pill/mongo.svg" alt="Tech Stack" height="38" align="center">
         <img src="./assets/pill/docker.svg" alt="Tech Stack" height="38" align="center">
         <img src="./assets/pill/kafka.svg" alt="Tech Stack" height="38" align="center">
-        <br><br>
+        <p></p>
 
   [![BookQuest](./assets/core/bq.svg)](https://github.com/nnuvi/bookquest)
-  &nbsp;
   ![Dot](./assets/core/dot.svg)
-  &nbsp;
-  [![Live](./assets/core/tlive.svg)](https://bookquest-eight.vercel.app/)
+  [![Live](./assets/core/live.svg)](https://bookquest-eight.vercel.app/)
         <br>
         Mobile app for managing personal book collections with ISBN scanning,
         borrowing & lending, friends, notifications, and library organization.        
@@ -85,14 +81,11 @@ Building full-stack web and mobile applications with **Next.js**, **React Native
         <img src="./assets/pill/express.svg" alt="Tech Stack" height="38" align="center">
         <img src="./assets/pill/mongo.svg" alt="Tech Stack" height="38" align="center">
         <img src="./assets/pill/ts.svg" alt="Tech Stack" height="38" align="center">
-        <br><br>
         <!-- NEWSDROP -->
 
   [![NewsDropp](./assets/core/nd.svg)](https://github.com/nnuvi/newsdrop)
-  &nbsp;
   ![Dot](./assets/core/dot.svg)
-  &nbsp;
-  [![Live](./assets/core/tlive.svg)](#)
+  [![Live](./assets/core/live.svg)](#)
         <br>
         Mobile news app for exploring topics, reading articles, and getting
         concise AI-powered summaries to quickly catch up on the latest news.
@@ -118,54 +111,44 @@ Building full-stack web and mobile applications with **Next.js**, **React Native
   >
 </p>
 
-<div height="44">
-
-  ![Ecom](./assets/core/lan.svg)
-  <img src="./assets/pill/ts.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/py.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/kt.svg" alt="Tech Stack" height="40" align="center">
-</div>
-
-  ![Front](./assets/core/front.svg)
-  <img src="./assets/pill/react.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/rn.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/expo.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/next.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/tailwind.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/nativewind.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/shadcn.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/tanstack.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/zustand.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/zod.svg" alt="Tech Stack" height="40" align="center">
-
-  ![Backend](./assets/core/back.svg)
-  <img src="./assets/pill/node.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/express.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/fastapi.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/pydantic.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/jwt.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/stripe.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/genai.svg" alt="Tech Stack" height="40" align="center">
-
-  ![DB](./assets/core/db.svg)
-  <img src="./assets/pill/mongo.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/pg.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/prisma.svg" alt="Tech Stack" height="40" align="center">
-
-  ![AI](./assets/core/ai.svg)
-  <img src="./assets/pill/pytorch.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/numpy.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/pandas.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/mlt.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/scikit.svg" alt="Tech Stack" height="40" align="center">
-
-  ![Tools](./assets/core/tools.svg)
-  <img src="./assets/pill/docker.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/kafka.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/git.svg" alt="Tech Stack" height="40" align="center">
-  <img src="./assets/pill/github.svg" alt="Tech Stack" height="40" align="center">
-</div>
-
+![Ecom](./assets/core/lan.svg)
+[<img src="./assets/pill/ts.svg" alt="TypeScript" height="40" align="center">](./assets/pill/ts.svg)
+[<img src="./assets/pill/py.svg" alt="Tech Stack" height="40" align="center">](./assets/pill/py.svg)
+[<img src="./assets/pill/kt.svg" alt="Tech Stack" height="40" align="center">](./assets/pill/kt.svg)    
+![Front](./assets/core/front.svg)
+[<img src="./assets/pill/react.svg" alt="React" height="40" align="center">](./assets/pill/react.svg)
+[<img src="./assets/pill/rn.svg" alt="React Native" height="40" align="center">](./assets/pill/rn.svg)
+[<img src="./assets/pill/expo.svg" alt="Expo" height="40" align="center">](./assets/pill/expo.svg)
+[<img src="./assets/pill/next.svg" alt="Next.js" height="40" align="center">](./assets/pill/next.svg)
+[<img src="./assets/pill/tailwind.svg" alt="Tailwind CSS" height="40" align="center">](./assets/pill/tailwind.svg)
+[<img src="./assets/pill/nativewind.svg" alt="NativeWind" height="40" align="center">](./assets/pill/nativewind.svg)
+[<img src="./assets/pill/shadcn.svg" alt="shadcn/ui" height="40" align="center">](./assets/pill/shadcn.svg)
+[<img src="./assets/pill/tanstack.svg" alt="TanStack Query" height="40" align="center">](./assets/pill/tanstack.svg)
+[<img src="./assets/pill/zustand.svg" alt="Zustand" height="40" align="center">](./assets/pill/zustand.svg)
+[<img src="./assets/pill/zod.svg" alt="Zod" height="40" align="center">](./assets/pill/zod.svg)  
+![Backend](./assets/core/back.svg)
+[<img src="./assets/pill/node.svg" alt="Node.js" height="40" align="center">](./assets/pill/node.svg)
+[<img src="./assets/pill/express.svg" alt="Express" height="40" align="center">](./assets/pill/express.svg)
+[<img src="./assets/pill/fastapi.svg" alt="FastAPI" height="40" align="center">](./assets/pill/fastapi.svg)
+[<img src="./assets/pill/pydantic.svg" alt="Pydantic" height="40" align="center">](./assets/pill/pydantic.svg)
+[<img src="./assets/pill/jwt.svg" alt="JWT" height="40" align="center">](./assets/pill/jwt.svg)
+[<img src="./assets/pill/stripe.svg" alt="Stripe" height="40" align="center">](./assets/pill/stripe.svg)
+[<img src="./assets/pill/genai.svg" alt="Generative AI" height="40" align="center">](./assets/pill/genai.svg)  
+![DB](./assets/core/db.svg)
+[<img src="./assets/pill/mongo.svg" alt="MongoDB" height="40" align="center">](./assets/pill/mongo.svg)
+[<img src="./assets/pill/pg.svg" alt="PostgreSQL" height="40" align="center">](./assets/pill/pg.svg)
+[<img src="./assets/pill/prisma.svg" alt="Prisma" height="40" align="center">](./assets/pill/prisma.svg)  
+![AI](./assets/core/ai.svg)
+[<img src="./assets/pill/pytorch.svg" alt="PyTorch" height="40" align="center">](./assets/pill/pytorch.svg)
+[<img src="./assets/pill/numpy.svg" alt="NumPy" height="40" align="center">](./assets/pill/numpy.svg)
+[<img src="./assets/pill/pandas.svg" alt="Pandas" height="40" align="center">](./assets/pill/pandas.svg)
+[<img src="./assets/pill/mlt.svg" alt="Machine Learning" height="40" align="center">](./assets/pill/mlt.svg)
+[<img src="./assets/pill/scikit.svg" alt="Scikit-learn" height="40" align="center">](./assets/pill/scikit.svg)  
+![Tools](./assets/core/tools.svg)
+[<img src="./assets/pill/docker.svg" alt="Docker" height="40" align="center">](./assets/pill/docker.svg)
+[<img src="./assets/pill/kafka.svg" alt="Apache Kafka" height="40" align="center">](./assets/pill/kafka.svg)
+[<img src="./assets/pill/git.svg" alt="Git" height="40" align="center">](./assets/pill/git.svg)
+[<img src="./assets/pill/github.svg" alt="GitHub" height="40" align="center">](./assets/pill/github.svg)
 
 ---
 <p></p>
@@ -191,10 +174,9 @@ Building full-stack web and mobile applications with **Next.js**, **React Native
 ---
 
 <!--
-<p></p>
 <p align="center">
   <img
-    src="./assets/core/contribution-graph.svg"
+    src="./assets/contribution-graph.svg"
     alt="Contribution Graph"
     width="170"
   >
